@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+string app_name
+string btn_leave
+string btn_pause
+string btn_resume
+string btn_start
+string btn_stay
+string dialog_leave_message
+string dialog_leave_title
+string garden_empty
+string notification_channel_name
+string notification_title
+string protected_mode_hint
+string screen_choose
+string screen_garden
+string screen_stats
+style Theme.MindGarden

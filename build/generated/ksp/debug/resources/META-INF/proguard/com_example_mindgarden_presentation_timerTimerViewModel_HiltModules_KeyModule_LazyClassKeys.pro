@@ -1,0 +1,6 @@
+-keep,allowobfuscation,allowshrinking class com.example.mindgarden.presentation.garden.GardenViewModel
+-keep,allowobfuscation,allowshrinking class com.example.mindgarden.presentation.garden.GardenViewModel
+-keep,allowobfuscation,allowshrinking class com.example.mindgarden.presentation.stats.StatsViewModel
+-keep,allowobfuscation,allowshrinking class com.example.mindgarden.presentation.stats.StatsViewModel
+-keep,allowobfuscation,allowshrinking class com.example.mindgarden.presentation.timer.TimerViewModel
+-keep,allowobfuscation,allowshrinking class com.example.mindgarden.presentation.timer.TimerViewModel

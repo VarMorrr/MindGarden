@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MindGarden</string>
+    <string name="screen_choose">Grow</string>
+    <string name="screen_garden">Garden</string>
+    <string name="screen_stats">Statistics</string>
+    <string name="btn_start">Start growing</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_resume">Continue</string>
+    <string name="btn_stay">Stay and continue</string>
+    <string name="btn_leave">Leave - the flower will wilt</string>
+    <string name="dialog_leave_title">The flower will wilt!</string>
+    <string name="dialog_leave_message">If I leave now, the flower will wilt and the timer will reset.</string>
+    <string name="protected_mode_hint">Safe Mode: The flower will survive if you leave</string>
+    <string name="garden_empty">Garden is empty - grow your first flower!</string>
+    <string name="notification_title">MindGarden</string>
+    <string name="notification_channel_name">Session reminders</string>
+</resources>

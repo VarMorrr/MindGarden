@@ -1,0 +1,2 @@
+-keep,allowobfuscation,allowshrinking class com.example.mindgarden.presentation.garden.GardenViewModel
+-keep,allowobfuscation,allowshrinking class com.example.mindgarden.presentation.garden.GardenViewModel
